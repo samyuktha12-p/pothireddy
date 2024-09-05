@@ -1,0 +1,8 @@
+s3(simple storage unit)
+ 
+Amazon s3 is an object storage service that offers industry-leading scalability,data availability,security and performance.Coustmers of all sizes and indstries can use amazon s3 to store and protect any amount of data for a range of use cases,such s dta lakes,websites,moblie applications,backup and restore,archiveenterprise applications,IoT devices and big data analytics.
+- Amazon s3 provides management features so that can optimze,organize and configure access to your data to meet your specific business,organizational and compliance requriments.
+
+features of Amazon S3:
+  storage class: it offer a range of stroage classes for different uses cases. 
+- it offers one zone is a high performance,single zone amazon s3 storae class that is purpose bui
